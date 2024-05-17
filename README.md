@@ -40,6 +40,9 @@ In my repository, you will find a diverse range of projects I have completed. He
         <a href="https://github.com/Fran-cio/mipsDesign">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fran-cio&repo=mipsDesign&theme=gruvbox" alt="GitHub Stats" />
         </a>
+        <a href="https://github.com/Fran-cio/ticTacToe">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fran-cio&repo=ticTacToe&theme=gruvbox" alt="GitHub Stats" />
+        </a>
     </p>
 </div>
 
