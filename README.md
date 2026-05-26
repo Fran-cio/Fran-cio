@@ -23,25 +23,25 @@ In my repository, you will find a diverse range of projects I have completed. He
 <div>
     <p align="center">
         <a href="https://github.com/Fran-cio/caldenShell">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fran-cio&repo=caldenShell&theme=gruvbox" alt="GitHub Stats" />
+            <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Fran-cio&repo=caldenShell&theme=gruvbox" alt="GitHub Stats" />
         </a>
         <a href="https://github.com/Fran-cio/concurrencyMonitorUsingPetriNets">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fran-cio&repo=concurrencyMonitorUsingPetriNets&theme=gruvbox" alt="GitHub Stats" />
+            <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Fran-cio&repo=concurrencyMonitorUsingPetriNets&theme=gruvbox" alt="GitHub Stats" />
         </a>
         <a href="https://github.com/Fran-cio/ludoM">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fran-cio&repo=ludoM&theme=gruvbox" alt="GitHub Stats" />
+            <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Fran-cio&repo=ludoM&theme=gruvbox" alt="GitHub Stats" />
         </a>
         <a href="https://github.com/Fran-cio/restApiUserManager">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fran-cio&repo=restApiUserManager&theme=gruvbox" alt="GitHub Stats" />
+            <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Fran-cio&repo=restApiUserManager&theme=gruvbox" alt="GitHub Stats" />
         </a>
         <a href="https://github.com/Fran-cio/taximeterCortexM3">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fran-cio&repo=taximeterCortexM3&theme=gruvbox" alt="GitHub Stats" />
+            <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Fran-cio&repo=taximeterCortexM3&theme=gruvbox" alt="GitHub Stats" />
         </a>
         <a href="https://github.com/Fran-cio/mipsDesign">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fran-cio&repo=mipsDesign&theme=gruvbox" alt="GitHub Stats" />
+            <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Fran-cio&repo=mipsDesign&theme=gruvbox" alt="GitHub Stats" />
         </a>
         <a href="https://github.com/Fran-cio/ticTacToe">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fran-cio&repo=ticTacToe&theme=gruvbox" alt="GitHub Stats" />
+            <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Fran-cio&repo=ticTacToe&theme=gruvbox" alt="GitHub Stats" />
         </a>
     </p>
 </div>
@@ -56,14 +56,14 @@ I have employed a variety of tools and languages including Python with Django, S
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fran-cio&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="Fran-cio" /></p>
+<p><img align="left" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Fran-cio&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="Fran-cio" /></p>
 <br><br><br><br><br><br><br><br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Fran-cio&show_icons=true&theme=gruvbox&locale=en" alt="Fran-cio" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats-fast.vercel.app/api?username=Fran-cio&show_icons=true&theme=gruvbox&locale=en" alt="Fran-cio" /></p>
 <br><br><br><br><br><br><br><br>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Fran-cio&theme=gruvbox" alt="Fran-cio" /></p>
+<p><img align="left" src="https://streak-stats.demolab.com/?user=Fran-cio&theme=gruvbox" alt="Fran-cio" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
 -----
